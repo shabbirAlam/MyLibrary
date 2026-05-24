@@ -2,7 +2,7 @@
 // https://docs.swift.org/swift-book
 
 public final class MyLibraryHelper {
-    public var greeting: String {
+    public static var greeting: String {
         return "Hello, World!"
     }
 }
